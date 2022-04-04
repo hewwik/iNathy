@@ -25,12 +25,12 @@ a{
    
 }
 a:hover{
-    background: #d62020;
+    background: #E9DD8A;
     color: white;
-    box-shadow: 0 0 5px #ffadc6,
-                0 0 25px #ffadc6,
-                0 0 50px #ffadc6,
-                0 0 200px #ffadc6;
+    box-shadow: 0 0 5px #EBD6D7,
+                0 0 25px #EBD6D7,
+                0 0 50px #EBD6D7,
+                0 0 200px #EBD6D7;
      -webkit-box-reflect:below 1px linear-gradient(transparent, #ffffff);
 
 }
